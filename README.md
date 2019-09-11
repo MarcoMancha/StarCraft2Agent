@@ -44,6 +44,17 @@ Considerations: We build an overlord every time we have less than 2 of free supp
 
 Thanks to APandaSniper for providing [this](https://lotv.spawningtool.com/build/82658/) building order on which this implemenation is based on.
 
+## Dependencies
+
+* Python 2.7+
+* [PySC2](https://github.com/deepmind/pysc2)
+
+## Running example
+
+```python
+python agent.py
+````
+
 ## Demo video
 
 [Link](https://drive.google.com/open?id=1VJBdAKkD1QA7f0LTKitQr9px0WZyLsKi) to demo.
